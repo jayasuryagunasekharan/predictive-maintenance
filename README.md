@@ -14,7 +14,7 @@ The economic potential of deploying Artificial Intelligence (AI) is being increa
 - To reduce unplanned downtime and maintenance costs.
 - To analyze historical data to identify patterns and trends in equipment performance.
 
-## Technologies Used
+## Technologies Used fro the project
 
 - **Programming Languages:** Python
 - **Libraries:** 
